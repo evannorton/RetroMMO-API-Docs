@@ -5,7 +5,7 @@ Documentation for RetroMMO public API
 Base URL is https://play.retro-mmo.com
 
 ### /leaderboards.json
-Returns a list of players' usernames and lifetime experience. Optionally paginated with a query string parameter (e.g. /leaderboards.json?page=2). 100 players per page.
+Returns a list of players' usernames and lifetime experience. Optionally paginated with a query string parameter (e.g. `/leaderboards.json?page=2`). 100 players per page.
 
 ### /players.json
 Returns a list of online players' usernames.
