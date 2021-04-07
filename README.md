@@ -10,5 +10,8 @@ Returns a list of players' usernames and lifetime experience. Optionally paginat
 ### /players.json
 Returns a list of online players' usernames.
 
+### /registered-users.json
+Returns the total amount of registered users.
+
 ### /users/:username.json
 Returns a user's leaderboards ranking and lifetime experience.
