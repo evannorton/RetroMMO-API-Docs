@@ -19,7 +19,7 @@ Returns a list of online players' usernames.
 ### /registered-users.json
 Returns the total amount of registered users.
 
-### /usernamess/:username.json
+### /usernames/:username.json
 Returns info about a username.
 
 ### /users/:username.json
